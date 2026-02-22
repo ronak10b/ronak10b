@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ronak10b
+- 👋 Hi, I’m Ronak!
 - 👀 I’m interested in developing cutting edge solutions to solve problems
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on IoT projects
 - 📫 You can reach me via ronak9@outlook.com
 
